@@ -7,6 +7,8 @@
     * [我的博客使用的插件](testdemo/我的博客使用的插件/)
     * [apache2](testdemo/apache2/)
     * [My-friend](testdemo/My-friend/)
+* DEMO
+    * [DEMO](testdemo/DEMO/)
 ___
 * Hexo
     * [Hexomr](testdemo/Hexo/)
