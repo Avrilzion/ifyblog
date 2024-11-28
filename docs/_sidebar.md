@@ -4,13 +4,13 @@
 * [指南](ml)
 
 * 测试模板
-    * [我的博客使用的插件](testdemo/我的博客使用的插件/)
-    * [apache2](testdemo/apache2/)
-    * [My-friend](testdemo/My-friend/)
+    * [我的博客使用的插件](testdemo/我的博客使用的插件)
+    * [apache2](testdemo/apache2)
+    * [My-friend](testdemo/My-friend)
 * DEMO
-    * [DEMO](testdemo/DEMO/)
+    * [DEMO](testdemo/DEMO)
 ___
 * Hexo
-    * [Hexomr](testdemo/Hexo/)
+    * [Hexomr](testdemo/Hexo)
 * 实训
-    * [Practical-training](testdemo/Practical-training/)
+    * [Practical-training](testdemo/Practical-training)
