@@ -12,5 +12,5 @@
 ___
 * Hexo
     * [Hexomr](testdemo/Hexo/)
-* Practical-training
+* 实训
     * [Practical-training](testdemo/Practical-training/)
